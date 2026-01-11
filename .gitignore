@@ -1,0 +1,15 @@
+# Секреты и настройки (САМОЕ ВАЖНОЕ)
+.env
+# Виртуальное окружение
+venv/
+env/
+.venv/
+# Кэш Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.mypy_cache/
+# Логи
+logs/
+# БД
+db.sqlite
